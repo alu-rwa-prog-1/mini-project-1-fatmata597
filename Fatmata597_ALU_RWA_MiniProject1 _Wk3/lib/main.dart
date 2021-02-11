@@ -59,7 +59,7 @@ class _MyAppState extends State<MyApp> {
             children: <Widget>[
               DrawerHeader(
                 decoration: BoxDecoration(
-                    Colors.tealAccent[400],
+                    color: Colors.tealAccent[400],
                   ), //color[]
                 ), //BoxDecoration
                 child: Container(
